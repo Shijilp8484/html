@@ -1,0 +1,120 @@
+header{
+    background-color: rgb(1, 31, 254);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    height:200px;
+}
+nav{
+    margin-top: 20px;
+   
+}
+nav a{
+    font-weight: bold;
+     color: rgb(255, 254, 254);
+       margin: 0 20px;
+        text-decoration: none;
+        padding-left: 26px;
+
+}
+.main{
+    background-color: rgb(1, 31, 254);
+     color: white;
+     display: flex;
+     justify-content: center;
+    gap: 140px;
+    height:330px;
+    
+
+}
+.h2{
+    font-size: 32px;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+
+.buttons{
+    margin-top: 20px;
+    display: flex;
+}
+button{
+    margin-right: 100px;
+     padding: 10px 30px;
+     width: 150px;
+     height: 40px;
+
+  border-radius: 5px;
+ 
+}
+.GetStarted{
+    background:rgb(255, 255, 255);
+    font-weight: bold;
+    color: rgb(79, 1, 246);
+}
+
+/* .bot{
+    height: 300px;
+    width: 300px;
+
+} */
+
+.Watch-intro{
+ background:rgb(252, 252, 252);
+    font-weight: bold;
+    color: rgb(0, 98, 255);
+}
+
+.second{
+    display: flex;
+    background-color: rgb(244, 244, 244);
+    padding: 40px 20px;
+   height: 350px;
+   
+
+}
+.secondcontent h2 {
+    margin: 10px 0;
+    padding-left: 30px;
+    padding-left: 300px;
+
+
+}
+
+.secondcontent h4{
+    margin: 10px 0;
+    padding-left: 30px;
+    -webkit-text-fill-color: brown;
+    padding-left: 300px;
+}
+
+
+
+.tabs {
+  margin: 10px 0;
+  padding-left: 300px;
+  background-color: rgb(249, 247, 247);
+  color: blue;
+}
+.tabs button{
+    margin-right: 10px;
+    padding: 8px 12px;
+    background-color: rgb(25, 4, 254);
+    color: aliceblue;
+}
+.second img{
+    height: 300px;
+    width: 300px;
+    box-shadow:30px;
+    border-radius:15px;
+   padding-left: 280px;
+}
+.second p{
+    padding-left: 30px;
+    padding-left: 300px;
+}
+.boy{
+    border-radius:50px;
+}
+

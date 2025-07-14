@@ -1,0 +1,30 @@
+.main{
+    background-color: rgb(4, 250, 17);
+    height: 800;
+    width: 800;
+    position: relative;
+}
+.vattam{
+    border-radius: 250px;
+    
+    z-index: 1;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    
+}
+
+.vattam2{
+    border-radius: 250px;
+    z-index: 2;
+    background-color: brown;
+     height: 300px;
+    width: 300px;
+    position: absolute;
+     top: 200px;
+    left: 100px;
+    bottom: 30px;
+ }

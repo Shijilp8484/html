@@ -1,0 +1,219 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.tailor{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    gap: 20px;
+}
+
+.callfor{
+    align-content: center;
+   margin-top: 33px;
+}
+
+.p{
+   
+    margin-right: 100px;
+}
+
+
+.part1{
+
+    padding-top: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    -webkit-text-fill-color: aliceblue;
+    
+}
+
+.learnmore{
+    -webkit-text-fill-color: red;
+}
+
+.part2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    font-size: small;
+    width: auto;
+}
+
+
+.part3{
+background-color: black;
+ align-content: center;
+ -webkit-text-fill-color: aliceblue;
+height: 300px;
+text-align: center;
+background-image: url(dark-silhouette-businessman-standing-office-window-holding-tablet-smartphone.jpg);
+opacity: 100px;
+font-size: small;
+}
+
+
+.part4{
+    height: 400px;
+    width: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+   
+}
+
+
+.box1{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    background-image: url(minim.png);
+    background-size: cover;
+    
+}
+
+.box2{
+    height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+    background-image: url(artificial.png);
+    background-size: cover;
+}
+
+.box3{
+    height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+     background-image: url(artificial.png);
+    background-size: cover;
+}
+
+.another{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+
+.another1{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    background-image: url(artificial.png);
+    background-size: cover;
+    
+}
+
+.another2{
+     height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+    background-image: url(artificial.png);
+    background-size: cover;
+}
+
+.another3{
+   height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+     background-image: url(artificial.png);
+    background-size: cover;
+}
+
+.part5{
+    background-color:rgb(135, 2, 2);
+    height: 300px;
+    align-content: center;
+    font-size: small;
+    -webkit-text-fill-color: white;
+    text-align: center;
+
+}
+
+.button{
+    -webkit-text-fill-color: black;
+}
+
+
+.part6{
+text-align: center;
+font-size: small;
+margin-top: 10px;
+}
+
+.rectangle{
+   height: 135px;
+    width: 605px;
+    background-color: rgb(177, 176, 176);
+    align-content: center;
+    margin-left: 450px;
+    font-size: medium;
+    margin-top: 70px;
+}
+
+.circle{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 720px;
+    margin-top: 25px;
+    background-image: url(dark-silhouette-businessman-standing-office-window-holding-tablet-smartphone.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.bottom{
+    height:75pxpx;
+    width: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+
+}
+
+.bottomtxt{
+    align-content: center;
+    margin-top: 20px;
+    font-size: small;
+}
+
+@media(width:800px){
+    .part2{
+        display: flex;
+        flex-direction: column;
+        height: 800px;
+        width: 800px;
+
+    }
+
+    .imgman{
+         display: flex;
+        flex-direction: column;
+        height:px auto;
+        width:800px ;
+    }
+     .part1{
+        display: flex;
+        flex-direction: column;
+        height:px auto;
+        width:800px ;
+     }
+
+}
+
+

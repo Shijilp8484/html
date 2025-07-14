@@ -1,0 +1,86 @@
+
+.img{
+  background-color: blue;
+    width:1500px;
+height: 750px;
+
+
+
+}
+
+.container nav{
+  margin: auto;
+  display: flex;
+  margin-top: 10px;
+  gap: 20px;
+  -webkit-text-fill-color: rgb(243, 243, 247);
+  text-align:top-right;
+  
+
+
+}
+.options{
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  padding: top 500px;
+  -webkit-text-fill-color: #f7f8f9;
+}
+
+
+
+.corparation{
+  -webkit-text-fill-color: aliceblue;
+padding-left: 100px;
+    padding-top: 200px;
+}
+
+
+
+.btms{
+   margin-top: 20px;
+    display: flex;
+    margin-left: auto;
+
+}
+
+
+.btm{
+   margin-right:50px;
+     padding: 10px 30px;
+     width: 150px;
+     height: 40px;
+}
+
+.picture{
+      padding-right: 100px;
+    padding: 10px;
+    width: 150px;
+     height: 40px;
+
+  
+}
+
+h3{
+  margin-left: 350px;
+width: 100px;
+height: 40px;
+margin-bottom:500px;
+}
+
+
+
+
+img2{
+  background-color: rgb(6, 6, 6);
+    width: 1000px;
+    height: 1100px;
+    background-repeat: scroll;
+    padding-left: 20px;
+    display: flex;
+    justify-content:right;
+    padding:200px;
+
+
+}
+

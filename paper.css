@@ -1,0 +1,37 @@
+header{
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
+
+  nav{
+    display: flex;
+    justify-content: right;
+    gap: 65px;
+
+   
+}
+
+.part1{
+    columns: 3;
+    column-gap: 20px;
+    justify-content: center;
+    padding-top: 70px;
+    column-rule: 3px solid grey;
+    padding: 100px;
+  
+    
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: grey;
+}
+
+
+
+.sui{
+    display: flex;
+    justify-content: space-between;
+}

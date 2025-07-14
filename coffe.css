@@ -1,0 +1,273 @@
+.first{
+    background-color: rgb(252, 251, 251);
+    color: rgb(255, 255, 255);
+    padding: 150px;
+    height: 300px;
+    position: relative;
+    -webkit-text-fill-color:#313030;
+    text-size-adjust: 200px;
+    font-family: sans-serif;
+
+}
+.first p{
+    font-size: small;
+}
+
+
+.first h2{
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.explore{
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    background-color:#a56b4e;
+    -webkit-text-fill-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second{
+     background-color: #382f32;
+    color: rgb(255, 255, 255);
+    padding: 200px;;
+    height:250px;
+}
+.circle1{
+    border-radius: 250px;
+    z-index: 1;
+   height: 300px;;
+    width: 300px;;
+    background-color: rgb(255, 0, 136);
+    top: 70px;
+    position: absolute;
+    margin-left: 650px;
+    bottom: 50px;
+    background-image: url(19jan4.jpg); 
+     background-size: 300px;
+}    
+
+
+.circle2{
+    background-image: url(19jan4.jpg);
+     border-radius: 250px;
+    z-index: 2;
+    background-color: brown;
+     height: 200px;
+    width: 200px;
+    position: absolute;
+     top: 200px;
+    bottom: 30px;
+    margin-left: 200px;
+    background-color: rgb(5, 150, 150);
+    background-size: 200px;
+    background-position: 20px;
+}
+.rounded{
+    background-color: #ecdbc5;
+    width: 700px;;
+    height: 70px;
+    border-radius: 50px;
+  padding: 20px 40px;  
+  margin: 40px auto; 
+  margin-top: 135px; 
+  background-size: cover;         
+}
+
+.icone1{ 
+    justify-content: space-around;
+    text-align: left;
+   
+    
+}
+
+.icone1 h1{
+    font-size: x-small;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    text-align: justify;  
+    padding-left: 50px;
+   
+    
+}
+
+.icone1 p{
+    font-size: x-small;
+    justify-content: center;
+    justify-content: space-around;
+     padding-left: 20;
+   
+}
+
+.icone2{
+    justify-content: center;
+    padding-bottom: 300px;
+    text-align: center;
+}
+
+
+.icone2 h1{
+    font-size: x-small;
+    text-align: center;  
+    padding-left: 60px;
+    
+    
+}
+
+
+.icone2 p{
+    font-size: x-small;
+     padding-left: 20;
+     text-align: center;
+   
+}
+
+
+.icone3{
+    justify-content: center;
+    padding-bottom: 300px;
+    text-align: right;
+    margin-bottom: 800px;
+}
+
+
+.icone3 h1{
+    font-size: medium;
+    text-align: right;  
+    bottom: 400px;
+    justify-content: right;
+   
+    
+    
+    
+}
+
+
+.icone3 p{
+    font-size: x-small;
+     padding-left: 20;
+     text-align: right;
+     justify-content: right;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+next 
+
+.box{
+    display: flex;
+    gap: 20px;
+    margin-left: 50px;
+    position: relative;
+    justify-content: space-around;
+    justify-content: right;
+  }
+
+
+
+.box1{
+     height: 300px;
+    width: 250px;
+    background-color: rgb(8, 228, 66);
+    border-radius: 50px;
+    position: absolute;
+     background-image: url(coffe.jpg);
+    background-size: cover;
+    
+   
+
+}
+
+.box2{
+    height: 300px;
+    width: 250px;
+    border-radius: 50px;
+    left: 250px;
+    background-image: url(boy.jpg);
+    background-size: cover;
+    margin-left: 546px;
+    position: absolute;
+    
+
+}
+
+
+.box3{
+     height: 300px;
+    width: 250px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: right;
+    left: 200px;
+    background-color: #a56b4e;
+    margin-top: 85px;
+    margin-left: 95px;
+    margin-bottom: 500px;
+       bottom: 84px;
+    position: relative;
+     background-image: url(coffe.jpg);
+    background-size: cover;
+    
+
+}
+
+.box4{
+    position: relative;
+    background-color: aqua;
+   height: 300px;
+    width: 250px;
+    margin-left: 880px;
+    bottom: 900px;
+       bottom: 888px;
+       display: flex;
+       justify-content: right;
+       border-radius: 50px;
+        background-image: url(coffe.jpg);
+    background-size: cover;
+}
+
+
+.box1 h4{
+    top: 100px;
+    padding-top: 291px;
+    padding-left: 114px;
+}
+
+.box2 h4{
+    top: 100px;
+       padding-top: 286px;
+    padding-left: 114px;
+}
+
+
+.box3 h4{
+    top: 100px;
+    padding-top: 291px;
+    padding-right: 114px;
+}
+
+
+
+.box4 h4{
+    top: 100px;
+    padding-top: 291px;
+    padding-right: 100px;
+}
+
+
+
+
+

@@ -1,0 +1,48 @@
+.menu{
+  display: flex;
+  gap: 50px;
+  background-color: green;
+    position: relative;
+    padding-top: 50;
+   
+}
+
+
+
+.menu li{
+  position: relative;
+  color: white;
+  height: 50px;
+
+}
+
+
+.menu > li:hover {
+  background-color: darkgreen;
+}
+
+.submenu{
+  position: absolute;
+  background-color: darkgreen;
+  display: none;
+}
+
+.dropdown:hover > .submenu {
+  display: block;
+   padding-left: 40;
+}
+
+
+.submenu .dropdown {
+  position: relative;
+}
+
+
+
+.submenu li {
+  padding: 10px;
+  color: white;
+}
+
+
+
